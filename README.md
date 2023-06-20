@@ -22,7 +22,7 @@ I’m looking to collaborate on ...
 ├─▣ Data Researcher
 ├─▣ Content Creator
 ├─▣ <a href="#"> Blog</a>
-├─▣ I am mostly available at <a href="#">The White Circle</a>
+├─▣ I am mostly available at <a href="#">The</a>
 │
 └───────────────────────────────▰▰▰
 
