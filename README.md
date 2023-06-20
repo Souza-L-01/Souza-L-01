@@ -1,10 +1,11 @@
- Hi, I’m Lucas
+<pre>
+  Hi everyone, Lucas here
+ 
 -  I’m interested in ...
 - I’m currently learning ...
-I’m looking to collaborate on ...
- How to reach me ...
+- I’m looking to collaborate on ...
 
-<pre>
+A bit more about me:
 
   ___   _      ___   _      ___   _      ___   _      ___   _
  [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|
@@ -16,7 +17,8 @@ I’m looking to collaborate on ...
                         [(_)] |=|    [(_)] |=|    [(_)] |=|
                          '-`  |_|     '-`  |_|     '-`  |_|
                         /mmm/        /mmm/        /mmm/
-
+ 
+(links still under construction - sorry)
 ┌──┤ FIELD ├─────────▰▰▰
 │
 ├─▣ Data Researcher
