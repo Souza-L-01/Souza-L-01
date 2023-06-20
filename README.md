@@ -31,7 +31,7 @@ A bit more about me:
 │
 ├─◈ <a href="#">LinkedIn</a>
 ├─◈ <a href="#">Twitter</a>
-├─◈ <a href="https://t.me/lucasvilelasouza" target="_blank">Telegram</a>
+├─◈ <a href="https://t.me/lucasvilelasouza" target="blank">Telegram</a>
 ├─◈ <a href="https://medium.com/@souza.vilela.lucas" target="_blank">Medium</a>
 │
 └───────────────────────────────▰▰▰
