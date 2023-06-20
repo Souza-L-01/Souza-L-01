@@ -23,28 +23,47 @@ A bit more about me:
 │
 ├─▣ Data Researcher
 ├─▣ Content Creator
-├─▣ <a href="#"> Blog</a>
-├─▣ I am mostly available at <a href="#">The</a>
+├─▣ My <a href="#"> Blog</a>
+│
+  const lucas = {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS, Ruby, Python, SQL],
+  tools: [React, Stimulus, WebPack ],
+  architecture: ["Rails", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "Self taught",
+                        mentor: "Le Wagon"
+                      },
+ challenge: "I want to be a Data Scientist in a perspective fo five years"
+}
 │
 └───────────────────────────────▰▰▰
 
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
 ├─◈ <a href="#">Twitter</a>
-├─◈ <a href="#">YouTube</a>
 ├─◈ <a href="#">Telegram</a>
 ├─◈ <a href="#">LinkedIn</a>
+│  
+    class SoftwareEngineer:
+  
+      def __init__(self):
+          self.role = "Software Engineer"
+          self.language_spoken = ["pt_BR", "en_US", "fr_FR", "es_ES", "nl_NL"]
+  
+      def say_hi(self):
+          print("Thanks for dropping by, hope you find some of my work interesting.")
+  
+  
+  me = SoftwareEngineer()
+  me.say_hi()
 │
 └───────────────────────────────▰▰▰
 
 ┌──┤ PROJECTS ├───────▰▰▰
 │
 ├─◈ <a href="#">Seeker</a>
-├─◈ <a href="#">FinalRecon</a>
-├─◈ <a href="#">NExfil</a>
-├─◈ <a href="#">pwnedOrNot</a>
-├─◈ <a href="#">KillCast</a>
-├─◈ <a href="#">FlashSploit</a>
+├─◈
 │
 └───────────────────────────────▰▰▰
 </pre>
