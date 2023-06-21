@@ -22,7 +22,8 @@ To enhance my productivity and proficiency, I aim to compartmentalize different 
   (links still under construction - sorry)
 ┌──┤ SELF ├─────────▰▰▰
 │
-├─▣ HTML/CSS player
+├─▣ Education theory
+├─▣ Art reviews  
 ├─▣ Data Researcher
 ├─▣ <a href="https://medium.com/@souza.vilela.lucas" target="_blank">Medium</a>
 │
