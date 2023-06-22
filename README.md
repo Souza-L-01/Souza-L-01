@@ -1,16 +1,17 @@
 <pre>
   Hi everyone, Lucas here
 
-- I learned front-end by myself during the pandemic, but I want to dive into understanding more about the Data world ♥️
-I took the initiative to learn front-end development independently. However, my curiosity and passion have now sparked
-a desire to delve deeper into the fascinating realm of data. I am eager to expand my knowledge and gain a comprehensive
-understanding of the data world, allowing me to explore its possibilities and contribute effectively.
+- I learned front-end by myself during the pandemic, but I want to dive into understanding more about the Data world ♥️ 
+    I took the initiative to learn front-end development independently. However, my curiosity and passion have now sparkeda 
+  desire to dive deeper into the fascinating realm of data. I am eager to expand my knowledge and gain a comprehensive
+  understanding of the data world, allowing me to explore its possibilities and contribute effectively.
 
-- I want to separate fields to be able to reach them more easily and efficiently.
-To enhance my productivity and proficiency, I aim to compartmentalize different fields of knowledge. By creating clear
-boundaries and focusing on individual areas, I can navigate and engage with each field more effortlessly. This approach
-will enable me to streamline my learning process, access resources more efficiently, and excel in each field with greater
-precision and effectiveness.
+- I want to separate fields (front and back-end) to be able to reach them more easily and efficiently.
+    I think it's a good idea to keep front-end as a experimentation pursuit to my self and back-end as more
+  of a professional area. This way to enhance my productivity and proficiency, I aim to compartmentalize 
+  different fields of knowledge. By creating clear boundaries and focusing on individual areas, I can 
+  navigate and engage with each field more effortlessly. This approach will enable me to streamline my 
+  learning process, access resources more efficiently, and excel in each field with greater precision and effectiveness.
 
   ___   _      ___   _      ___   _      ___   _      ___   _
  [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|
