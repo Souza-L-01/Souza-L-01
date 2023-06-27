@@ -1,13 +1,11 @@
 <pre>
   Hi everyone, Lucas here
 
-- I learned front-end by myself during the pandemic, but I want to dive into understanding more about the back-end world ♥️ 
+- I learned front-end by myself during the pandemic, but I like working in the back-end world ♥️ 
 
 - My goal is to have front and back-end well structured and be able to reach them more easily and efficiently.
-  I think it's a good idea to keep front-end as a experimentation pursuit to my self and back-end as a professional area.
-  This way I can enhance my productivity and my proficiency into different fields of knowledge. 
-  By creating clear boundaries and focusing on individual areas, I can navigate and engage with each field more cohesively.
-  I'll be able to access resources more efficiently and apply both into each other.
+  Keeping front-end as a experimentation pursuit to my self and back-end as a professional area.
+  I'll be able to access resources more efficiently and apply both into each other more cohesively. 
 
   ___   _      ___   _      ___   _      ___   _      ___   _
  [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|
