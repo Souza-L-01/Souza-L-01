@@ -22,7 +22,7 @@
   (links still under construction - sorry)
 ┌──┤ SELF ├─────────▰▰▰
 │
-├─▣ Digital solutions
+├─▣ Digital/Web thinking
 ├─▣ Art reviews  
 ├─▣ Education theory
 ├─▣ <a href="https://medium.com/@souza.vilela.lucas" target="_blank">Medium</a>
@@ -39,7 +39,7 @@
 
 ┌──┤ PROJECTS ├───────▰▰▰
 │
-├─◈ <a href="#">Portfolio</a>
+├─◈ <a href="https://souza-l-01.github.io/portfolio/">Portfolio</a>
 │
 └───────────────────────────────▰▰▰
 </pre>
