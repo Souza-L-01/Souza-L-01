@@ -1,11 +1,15 @@
 <pre>
-  Hi everyone, Lucas here
+  Hi everyone, Lucas here :)
 
-- I learned front-end by myself during the pandemic, but I like working in the back-end world ♥️ 
-
-- My goal is to have front and back-end well structured and be able to reach them more easily and efficiently.
-  Keeping front-end as a experimentation pursuit to my self and back-end as a professional area.
-  I'll be able to access resources more efficiently and apply both into each other more cohesively. 
+I am a motivated web developer with a strong background in education and a keen interest in back-end development. 
+  
+I excel in analytical thinking, effective communication, and creating unique and dynamic environments. 
+  
+My skills include coding, user support, data management, and infrastructure maintenance. 
+  
+I prioritize both the process and the results, and I have a reliable understanding of social dynamics. 
+  
+My goal is to continue developing as a skilled and versatile professional in a collaborative work environment.
 
   ___   _      ___   _      ___   _      ___   _      ___   _
  [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|
@@ -22,7 +26,7 @@
   (links still under construction - sorry)
 ┌──┤ SELF ├─────────▰▰▰
 │
-├─▣ Digital/Web thinking
+├─▣ Digital/Web solutions
 ├─▣ Art reviews  
 ├─▣ Education theory
 ├─▣ <a href="https://medium.com/@souza.vilela.lucas" target="_blank">Medium</a>
