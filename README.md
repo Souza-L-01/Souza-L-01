@@ -23,7 +23,6 @@ My goal is to continue developing as a skilled and versatile professional in a c
                         /mmm/        /mmm/        /mmm/
  
 
-  (links still under construction - sorry)
 ┌──┤ SELF ├─────────▰▰▰
 │
 ├─▣ Digital/Web solutions
