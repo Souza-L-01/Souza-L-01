@@ -27,9 +27,8 @@ My goal is to continue developing as a skilled and versatile professional in a c
 ┌──┤ SELF ├─────────▰▰▰
 │
 ├─▣ Digital/Web solutions
-├─▣ Art reviews  
-├─▣ Education theory
 ├─▣ <a href="https://medium.com/@souza.vilela.lucas" target="_blank">Medium</a>
+├─▣ <a href="https://souza-l-01.github.io/portfolio/">Portfolio</a>
 │
 └───────────────────────────────▰▰▰
 
@@ -41,9 +40,11 @@ My goal is to continue developing as a skilled and versatile professional in a c
 │
 └───────────────────────────────▰▰▰
 
-┌──┤ PROJECTS ├───────▰▰▰
+┌──┤ INTERESTS ├───────▰▰▰
 │
-├─◈ <a href="https://souza-l-01.github.io/portfolio/">Portfolio</a>
+├─◈ Bonsai 🌳
+├─◈ Research Groups
+├─◈ Art and Education Theory
 │
 └───────────────────────────────▰▰▰
 </pre>
