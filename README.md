@@ -42,8 +42,13 @@ My goal is to continue developing as a skilled and versatile professional in a c
 ┌──┤ INTERESTS ├───────▰▰▰
 │
 ├─◈ Bonsai 🌳
+│  └── Sicilian Lemon Tree__Gree Dagron Mapple__Red Japanese Mapple__Australian Eucalyptus
 ├─◈ Research Groups
 ├─◈ Art and Education Theory
+│  └── Articles
+│        └── Writting
+│               └── __init__.py
+└── <3
 │
 └───────────────────────────────▰▰▰
 </pre>
