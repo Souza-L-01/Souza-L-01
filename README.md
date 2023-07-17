@@ -43,18 +43,22 @@ My goal is to continue developing as a skilled and versatile professional in a c
 │
 ├─◈ Bonsai 🌳
 │  └── Sicilian Lemon Tree__.js
-       └──Gree Dagron Mapple__.erb
-          └──Red Japanese Mapple__.rb
-              └──Australian Eucalyptus__.py
+│      └── Gree Dagron Mapple__.erb
+│         └── Red Japanese Mapple__.rb
+│             └── Australian Eucalyptus__.py
 |
 ├─◈ Research Groups
+│   └── <a href="https://silencio.ooo/">Project 1</a>
+│       └── <a href="https://www.instagram.com/procrise/?hl=pt-br">Project 2</a>
+│           └── <a href="https://5d7b2372-cf3b-4d25-bb99-ae11b2e009a8.filesusr.com/ugd/dd3b94_a15cd831934e4f81a46f4833511e094c.pdf">Project 3</a>
+│               └── <a href="https://5d7b2372-cf3b-4d25-bb99-ae11b2e009a8.filesusr.com/ugd/dd3b94_8f9e1a70f42349d3b8462523822ec098.pdf">Project 4</a>
 |  
 ├─◈ Art and Education Theory
 │  └── Articles
 │        └── <a href="https://lume.ufrgs.br/handle/10183/221672">Article 1</a>.css
-              └── <a href="https://lume.ufrgs.br/handle/10183/187849">Article 1</a>.scss
-                  └── <a href="https://5d7b2372-cf3b-4d25-bb99-ae11b2e009a8.filesusr.com/ugd/dd3b94_10c24e348ee740d4bd8b8d87d0e3eb45.pdf">Article 1</a>.js
-                      └── <a href="https://www.periodicos.rc.biblioteca.unesp.br/index.php/educacao/article/view/12952/11219">Article 1</a>.html
+│             └── <a href="https://lume.ufrgs.br/handle/10183/187849">Article 2</a>.scss
+│                 └── <a href="https://5d7b2372-cf3b-4d25-bb99-ae11b2e009a8.filesusr.com/ugd/dd3b94_10c24e348ee740d4bd8b8d87d0e3eb45.pdf">Article 3</a>.js
+│                     └── <a href="https://www.periodicos.rc.biblioteca.unesp.br/index.php/educacao/article/view/12952/11219">Article 4</a>.html
 │        
 └── <3
 │
