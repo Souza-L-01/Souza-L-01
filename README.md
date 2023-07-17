@@ -42,12 +42,20 @@ My goal is to continue developing as a skilled and versatile professional in a c
 ┌──┤ INTERESTS ├───────▰▰▰
 │
 ├─◈ Bonsai 🌳
-│  └── Sicilian Lemon Tree__Gree Dagron Mapple__Red Japanese Mapple__Australian Eucalyptus
+│  └── Sicilian Lemon Tree__.js
+       └──Gree Dagron Mapple__.erb
+          └──Red Japanese Mapple__.rb
+              └──Australian Eucalyptus__.py
+|
 ├─◈ Research Groups
+|  
 ├─◈ Art and Education Theory
 │  └── Articles
-│        └── Writting
-│               └── __init__.py
+│        └── <a href="https://lume.ufrgs.br/handle/10183/221672">Article 1</a>.css
+              └── <a href="https://lume.ufrgs.br/handle/10183/187849">Article 1</a>.scss
+                  └── <a href="https://5d7b2372-cf3b-4d25-bb99-ae11b2e009a8.filesusr.com/ugd/dd3b94_10c24e348ee740d4bd8b8d87d0e3eb45.pdf">Article 1</a>.js
+                      └── <a href="https://www.periodicos.rc.biblioteca.unesp.br/index.php/educacao/article/view/12952/11219">Article 1</a>.html
+│        
 └── <3
 │
 └───────────────────────────────▰▰▰
