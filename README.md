@@ -24,9 +24,10 @@ My goal is to continue developing as a skilled and versatile professional in a c
  
 
 ┌──┤ SELF ├─────────▰▰▰
-│
+│<a href="https://www.w3schools.com" target="_blank">Visit W3Schools</a>
+
 ├─▣ Digital/Web solutions
-├─▣ <a href="https://medium.com/@souza.vilela.lucas" target="_blank">Medium</a>
+├─▣ <a href="https://medium.com/@souza.vilela.lucas" target="blank">Medium</a>
 ├─▣ <a href="https://souza-l-01.github.io/portfolio/" target="_blank">Portfolio</a>
 │
 └───────────────────────────────▰▰▰
