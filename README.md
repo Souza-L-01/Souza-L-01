@@ -1,7 +1,7 @@
 <pre>
   Hi everyone, Lucas here :)
 
-I am a motivated web developer with a strong background in education and a keen interest in web/software development. 
+I am a motivated web developer with a strong background in education and a keen interest in software and data engineering. 
   
 I excel in analytical thinking, effective communication, and creating unique and dynamic environments. 
   
